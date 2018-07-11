@@ -1,2 +1,3 @@
 # mygame
-This is a test game
+Heyy
+i am learning to code and making this game...
